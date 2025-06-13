@@ -67,6 +67,14 @@ lesDonneesDesComptes = {
             'logged_in': False,
             'role': 'administrateur'
         },
+        'LN': {
+            'name': 'LN',
+            'password': 'LNMDP', # En production, les mots de passe doivent être hachés
+            'email': 'admin@gmail.com',
+            'failed_login_attemps': 0,
+            'logged_in': False,
+            'role': 'administrateur'
+        },
         'Martin': {
             'name': 'Martin',
             'password': 'martin', # En production, les mots de passe doivent être hachés
