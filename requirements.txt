@@ -2,7 +2,6 @@ streamlit
 streamlit_authenticator
 streamlit_option_menu
 pandas
-sklearn.metrics.pairwise
-sklearn.feature_extraction.text
+sklearn
 nltk.corpus
 numpy
