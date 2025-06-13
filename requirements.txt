@@ -3,5 +3,5 @@ streamlit_authenticator
 streamlit_option_menu
 pandas
 scikit-learn
-nltk.corpus
+nltk
 numpy
