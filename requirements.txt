@@ -3,9 +3,7 @@ streamlit_authenticator
 streamlit_option_menu
 random
 pandas
-sklearn
-nltk
+sklearn.metrics.pairwise
+sklearn.feature_extraction.text
+nltk.corpus
 numpy
-random
-seaborn
-matplotlib
