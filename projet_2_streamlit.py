@@ -12,7 +12,8 @@ import numpy as np
 
 # chargement du Dataframe traité 
 # df= pd.read_csv("https://raw.githubusercontent.com/iampdv/projet_2/main/df_final_2.csv",sep=",")
-df= pd.read_csv("df_film.csv",sep=",")
+# df= pd.read_csv("df_film.csv",sep=",")
+df= pd.read_csv("https://raw.githubusercontent.com/iampdv/projet_2/main/df_film.csv",sep=",")
 TMDB_IMAGE_BASE_URL = "https://image.tmdb.org/t/p/w400"
 
 #fonction de recherche
