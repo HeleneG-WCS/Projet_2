@@ -3,7 +3,6 @@ streamlit_authenticator
 streamlit_option_menu
 random
 pandas
-sklearn.metrics.pairwise
-sklearn.feature_extraction.text
-nltk.corpus
+sklearn
+nltk
 numpy
