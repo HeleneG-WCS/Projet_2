@@ -7,3 +7,5 @@ sklearn
 nltk
 numpy
 random
+seaborn
+matplotlib
