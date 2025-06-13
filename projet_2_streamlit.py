@@ -12,9 +12,9 @@ import numpy as np
 
 # chargement du Dataframe traité 
 # df= pd.read_csv("https://raw.githubusercontent.com/iampdv/projet_2/main/df_final_2.csv",sep=",")
-# df= pd.read_csv("df_film.csv",sep=",")
+df= pd.read_csv("df_film.csv",sep=",")
 # df= pd.read_csv("https://raw.githubusercontent.com/iampdv/projet_2/main/df_film.csv",sep=",")
-df = pd.read_csv(r"C:\Users\HELENE\OneDrive\_WCS_\WCS_Projets\Projet_2\tmdb_full_2.csv", sep=",", low_memory=False)
+# df = pd.read_csv(r"C:\Users\HELENE\OneDrive\_WCS_\WCS_Projets\Projet_2\tmdb_full_2.csv", sep=",", low_memory=False)
 TMDB_IMAGE_BASE_URL = "https://image.tmdb.org/t/p/w400"
 
 #fonction de recherche
